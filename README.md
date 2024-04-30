@@ -1,6 +1,8 @@
 ### Hi there! 👋
 
-Hi, I'm Eleanor.
+Hi, I'm Eleanor. I am an aspiring data scientist! I recently completed a data science bootcamp for women, trans, and non-binary people called CodeOp. 
+I am also a graduate student at the University of Cologne studying geophysics. 🌎 Geophysics uses math, statistics, and data to understand Earth- including it's interior, atmosphere, and surrounding space environment. 🌌 
+
 <!--
 **eleanoralvarez/eleanoralvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,5 +19,5 @@ Here are some ideas to get you started:
 -->
 
 
-### Project Portfolio
-Click here, please!
+### Projects Portfolio
+[Click here, please!] (https://github.com/eleanoralvarez/portfolio.git)
