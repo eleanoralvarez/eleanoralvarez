@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 
 ### Projects Portfolio
-[Click here, please!] (https://github.com/eleanoralvarez/portfolio.git)
+[Click here, please!](https://github.com/eleanoralvarez/portfolio.git)
